@@ -8,4 +8,4 @@ Dataset Link: https://benchmark.ini.rub.de/gtsdb_news.html
 # Run Detection
 
 To run the detection, I modified the detect.py file.
-    python detect.py --weights best_traffic_sign.pt --img 1280 --source input_file
+>> python detect.py --weights best_traffic_sign.pt --img 1280 --source input_file
